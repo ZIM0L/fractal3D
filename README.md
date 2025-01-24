@@ -23,3 +23,5 @@
      Reset the fractal to its default settings.
   </li>
 </ul>
+
+PS :<strong>Microsoft Edge handles renders just perfect to work it smoothly.</strong>
