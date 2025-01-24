@@ -74,14 +74,14 @@ const App = () => {
           angle={Math.PI / 6}
           penumbra={0.5}
           intensity={2.5}
-          castShadow // Włączenie rzucania cieni
-          shadow-mapSize-width={1024} // Wyższa jakość cienia
+          castShadow 
+          shadow-mapSize-width={1024} 
           shadow-mapSize-height={1024}
         />
         <directionalLight
           position={[-15, 25, 10]}
           intensity={1.3}
-          castShadow // Włączenie rzucania cieni
+          castShadow
           shadow-mapSize-width={1024}
           shadow-mapSize-height={1024}
           shadow-bias={-0.001}
